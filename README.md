@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Audrey
 - 👀 I’m interested in development to improve myself
-- 🌱 I’m currently learning symfony5 and Angular
+- 🌱 I’m currently learning react and how to make a punch out
 - 📫 How to reach me allain-audrey@hotmail.fr
 - </> Pure salt butter developer </>
 -
